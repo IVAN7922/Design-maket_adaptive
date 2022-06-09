@@ -9,13 +9,8 @@
     }
 
     .header-menu {
-        margin-left: 0;
+        padding-left: 10px;
     }
-
-    .header-menu__item {
-        margin-right: 53px;
-    }
-
 
     .header-menu__item {
         margin-right: 20px;
