@@ -48,6 +48,12 @@
         width: 688px;
     }
 
+    .video iframe {
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
+
     .apartment-images_column2 {
         display: none;
     }
@@ -357,6 +363,13 @@
         width: 100%;
         height: 207px;
         margin: 0 auto;
+        border: none;
+    }
+
+    .video iframe {
+        width: 100%;
+        height: 100%;
+        border: 0;
     }
 
     hr {
@@ -423,7 +436,7 @@
     }
 
     .user-name button {
-        margin-top: 48px;
+        margin-top: 56px;
         margin-bottom: 0px;
     }
 
