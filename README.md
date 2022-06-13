@@ -34,7 +34,7 @@ DRY (Don't Repeat Yourself):
 
 KISS (Keep It Simple, Student):
 
-Использование линтера Beautyfy упрощает чтение кода;
+Использование линтера Beautify упрощает чтение кода;
 
 ---
 
