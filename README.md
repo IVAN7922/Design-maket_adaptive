@@ -28,14 +28,20 @@ DRY (Don't Repeat Yourself):
 
 Использование методологии БЭМ при написании стилей, отдельные классы с общими стилями для повторяющихся элементов.
 
+---
+
 KISS (Keep It Simple, Student):
 
 Использование линтера Beautyfy упрощает чтение кода;
+
+---
 
 YAGNI (You Ain't Gonna Need It):
 
 Была изменена верстка в некоторых местах с оптимизацией элементов и блоков;
 Сайт стал полностью адаптивным;
+
+---
 
 БЭМ (Блок-Элемент-Модификатор): Методология БЭМ также включает в себя многое из принципов SOLID (single responsibility, open–closed, Liskov substitution, interface segregation и dependency inversion).
 
