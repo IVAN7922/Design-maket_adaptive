@@ -105,6 +105,7 @@
     }
 
     .button-main {
+        margin: 0 auto;
         height: 51px;
         width: 100%;
         font-size: 13px;
