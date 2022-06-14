@@ -194,6 +194,7 @@
     /* Hero */
 
     .hero {
+        margin: 0 auto;
         background-image: url('../img/home.jpg');
         background-position: center;
         height: 476px;
